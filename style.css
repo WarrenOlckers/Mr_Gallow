@@ -1,0 +1,29 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center; 
+}
+h1 {
+    margin-bottom: 20px;
+}
+
+#category-buttons {
+    margin-bottom: 20px;
+}
+
+#word-display {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#guesses-left {
+    margin-bottom: 10px;
+}
+
+#guess-input {
+    margin-right: 10px;
+}
+
+#message {
+    margin-top: 20px;
+    font-weight: bold;
+}
